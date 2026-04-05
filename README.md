@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Idris Yousfi
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Idris+Yousfi;CS+Student+%26+Cybersecurity+Lab+Coder;Always+Learning+%26+Building" alt="Typing SVG" />
+</p>
+
 I'm a **Computer Science (L1 MIPC) student** at **University Lyon 1**.  
 Passionate about **coding**, **video games**, **cybersecurity**.
 
@@ -51,7 +55,3 @@ Passionate about **coding**, **video games**, **cybersecurity**.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nowlays&show_icons=true&theme=react-dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nowlays&layout=compact&theme=react-dark)
