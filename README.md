@@ -11,11 +11,23 @@ Passionate about **coding**, **video games**, **cybersecurity**.
 
 ## 🛠️ Tech Stack
 
+### 💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### 🐧 Systems & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 🔐 Cybersecurity
+![Networking](https://img.shields.io/badge/Networking-0078D6?style=for-the-badge&logo=cisco&logoColor=white)
+![Pentesting](https://img.shields.io/badge/Pentesting-red?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=green)
 
 ---
 
@@ -60,4 +72,8 @@ Passionate about **coding**, **video games**, **cybersecurity**.
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/0ef02ab8eae1be7774a3729757937f23a8a192d633dcea7604bd37a181c9c861/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d362c31312c3230266865696768743d3130302673656374696f6e3d666f6f74657226616e696d6174696f6e3d7477696e6b6c696e67" alt="Audio Wave" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nowlays&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
