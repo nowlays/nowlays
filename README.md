@@ -35,7 +35,7 @@ Passionate about **coding**, **video games**, **cybersecurity**.
 
 - **Grapic** – Graphic simulations and games in C++  
 - **SQL Projects** – Databases and complex queries  
-- **Python Scripts** – Automation, analysis, mini-projects  
+- **Python Scripts** – Automation, analysis  
 - **Cybersecurity Labs** – Attack & defense exercises, vulnerability analysis, penetration testing  
 - **Mini Projects** – Side projects combining coding and cybersecurity challenges  
 
