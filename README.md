@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Idris Yousfi
+# Hi, I'm Idris Yousfi
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=650&lines=CS+Student;Cybersecurity+Explorer;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 I'm a **Computer Science student** at **University Lyon 1**.  
-Passionate about **coding**, **video games**, **cybersecurity**.
+Passionate about **coding**, **Computer Systems**, **cybersecurity**.
 
 ---
 
