@@ -50,15 +50,9 @@ Passionate about **coding**, **Computer Systems**, **cybersecurity**.
 
 ---
 
-## 🐍 GitHub Contributions Snake
+## GitHub Contributions Snake
 
 ![Snake animation](https://raw.githubusercontent.com/Yeachan-Heo/Yeachan-Heo/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## 📈 GitHub Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nowlays&theme=react-dark)
 
 ---
 
