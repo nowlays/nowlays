@@ -18,6 +18,7 @@ Passionate about **coding**, **Computer Systems**, **cybersecurity**.
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ### Systems & Tools
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -60,9 +61,6 @@ Passionate about **coding**, **Computer Systems**, **cybersecurity**.
 
 > "Stay curious, keep learning, and code every day."
 
----
-
-## Wave Animation
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/0ef02ab8eae1be7774a3729757937f23a8a192d633dcea7604bd37a181c9c861/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426637573746f6d436f6c6f724c6973743d362c31312c3230266865696768743d3130302673656374696f6e3d666f6f74657226616e696d6174696f6e3d7477696e6b6c696e67" alt="Audio Wave" />
